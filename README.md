@@ -2,8 +2,8 @@
 Gaurtoken protocol is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol.
 
 ## GAURT features:
-- 2% fee auto add to the liquidity pool to locked forever when selling 
-- 3% fee auto distribute to all holders
+- 5% fee auto add to the liquidity pool to locked forever when selling 
+- 5% fee auto distribute to all holders
 
 ## Deploy
 1. First, the dev has minted the tokens - sent the balance to DxSale for fair launch - and then burned the remainder of the tokens. Dev had to partake in presale. 
